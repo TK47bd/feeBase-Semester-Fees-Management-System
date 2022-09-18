@@ -1,0 +1,132 @@
+*{
+
+  margin                 : 0;
+  padding                : 0;
+ 
+}
+
+
+body{
+
+  background             : #70A072; 
+
+}
+
+
+.table{
+ 
+  background             : #fdf0f0;
+  width                  : 550px;
+  height                 : 350px; 
+  margin                 : 0 auto;
+
+}
+
+
+.table caption{
+
+  background             : #E6DADA;  
+  background             : -webkit-linear-gradient(to right, #274046, #E6DADA); 
+  background             : linear-gradient(to right, #274046, #E6DADA); 
+  size                   : 40px;
+  font-family            : Tahoma;
+  text-align             : center;
+
+}
+
+
+table,th,td{
+
+  border                 : 1px solid;
+  text-align             : center;
+  background             : #e7e5e8;
+  font-family            : arial;
+
+}
+
+
+.table td:hover {
+
+  size                   : 50px;
+  color                  : #303030;
+  cursor                 : context-menu;
+  font-weight            : bold;
+  transition             : 0.5s all ease;
+
+}
+
+
+table,thead,tr,th{
+
+  background             : gray;
+
+}
+
+
+.tfoot_td{
+
+  background             : gray;
+
+}
+
+
+input[value="Logout"]{
+ 
+  background             : #37FD90;
+  padding                : 2px;
+  color                  : black;
+  width                  : 7%;
+  height                 : 30px;
+  font-weight            : bold;
+
+}
+
+
+input[value="Back"]{
+
+  background             : pink;
+  padding                : 2px;
+  color                  : black;
+  width                  : 7%;
+  height                 : 30px;
+  font-weight            : bold;
+
+}
+
+
+input[value="Logout"]:hover{
+
+  color                  : #fff;
+  cursor                 : pointer;
+  background             : #000;
+
+}
+
+
+input[value="Back"]:hover{
+
+  color                  : #fff;
+  cursor                 : pointer;
+  background             : #000;
+
+}
+
+
+.footr{
+
+  background-color        : RGBA(23,23,23,0.8);
+  padding                 : 12px;   
+  margin-top              : 5%;
+
+}
+
+
+.footr p{
+
+  text-align              : center;
+  color                   : gray;
+  font-family             : arial;
+  font-size               : 11px;
+  padding                 : 7px;  
+
+}

@@ -1,0 +1,40 @@
+
+input[value="View"]{
+
+  background             : #37FD90;
+  padding                : 2px;
+  color                  : black;
+  width                  : 7%;
+  height                 : 30px;
+  font-weight            : bold;
+
+}
+
+
+input[value="View"]:hover{
+
+  color                  : #fff;
+  cursor                 : pointer;
+  background             : #000;
+
+}
+
+
+.footr_q{
+
+  background-color        : RGBA(23,23,23,0.8);
+  padding                 : 12px;   
+  margin-top              : 2%;
+
+}
+
+
+.footr_q p{
+
+  text-align              : center;
+  color                   : gray;
+  font-family             : arial;
+  font-size               : 11px;
+  padding                 : 5px;  
+
+}

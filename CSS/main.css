@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow&display=swap');
+
+body{
+    background-color: #C4CAD0;
+}
+
+.top {
+    background-color: #0B0C10;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 100px;
+}
+
+#fBase {
+    color: white;
+    padding-left: 50px;
+    padding-top: 10px;
+
+}
+#beta{
+    color: white;
+    padding-top: 10px;
+}
+#link2br {
+    position: fixed;
+    font-size: 15px;
+    padding-top: 0;
+    color:white;
+}
+.bR {
+    position: fixed;
+    left: 5px;
+    right: 0;
+    padding-left: 30px;
+    padding-top: 0px;
+}
+.formm {
+    padding-top: 150px;
+}
+.btn {
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 5px;
+}
+
+.white-text{
+    color: white;
+    width: 100%;
+    padding: inherit;
+}
+.alertpos{
+    position: fixed;
+    bottom: 70%;
+    left:20%;
+    right:10%;
+
+}
+
+.error-template {
+    padding: 40px 15px;text-align: center;
+}
+.error-actions {
+    margin-top:15px;margin-bottom:15px;
+}
+.error-actions .btn { 
+    margin-right:10px; 
+}
+
+#er404or {
+    font-family: 'Russo One', sans-serif;
+    font-size: 100px;
+}
+
+#well-I-do {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 40px;
+}
+#well-I-do-small {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 25px;
+}
+#well-I-do-medium {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 30px;
+}
+.bgblack {
+    background-color: #0B0C10;
+}
+.footer {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: slategray;
+
+        
+ }
+ #footer {
+
+     font-size: 15px;
+     padding-left: 0;
+     padding-right: 0;
+ }
+ .fonted-fee{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+ }
+ .goback{
+    position: fixed;
+    right: 2px;
+    padding-left: 5px;
+    padding-right: 7px;
+    margin-top: -12px;
+ }
+
+
+ 
+ 
